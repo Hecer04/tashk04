@@ -1,0 +1,166 @@
+*{
+   padding: 0;
+   margin:0;
+   box-sizing: border-box;
+
+}
+ .m1{
+ width: 100%;
+ height: 60px;
+ background-color:darkmagenta;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ gap: 200px;
+
+}
+ .n1{
+ width: 200px;
+ height: 30px;
+ background-color: red;
+ margin-left: 10px;
+ gap: 50px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+
+}
+ .n2{
+ width: 200px;
+ height: 30px;
+ background-color: red;
+ align-items: center;
+ justify-content: center;
+
+}
+ .n3{
+ width: 200px;
+ height: 30px;
+ background-color: red;
+ align-items: center;
+ justify-content:center ;
+
+}
+ .m2{
+  width: 100%;
+  height: 700px;
+  background-color:coral;
+  display: flex;
+  gap: 200px;
+ 
+}
+ .n4{
+  width: 300px;
+  height: 300px;
+  background-color: cornflowerblue;
+  margin-left:350px;
+  margin-top: 200px;
+
+}
+ .n5{
+  width: 300px;
+  height: 300px;
+  background-color:cornflowerblue;
+  margin-top: 200px;
+  
+}
+  .c1{
+  width: 180px;
+  height: 80px;
+  background-color: brown;
+  margin-left: 60px;
+  margin-top: 50px;
+  gap: 50px;
+  
+}
+ .c2{
+ width: 180px;
+ height: 80px;
+ background-color: brown;
+ margin-left: 60px;
+ gap: 50px;
+ margin-top: 50px;
+
+}
+ .m3{
+ width: 100%;
+ height: 300px;
+ background-color:#7fff00;
+ gap: 100px;
+ display: flex;
+ flex-direction: column;
+ justify-content: space-around;
+ align-items: center;
+ gap:40px;
+ flex-wrap: wrap
+ 
+}
+ .m3 div{
+ width: 200px;
+ height: 100px;
+ background-color: blueviolet;
+
+}
+ .m4{
+ width: 100%;
+ height: 500px;
+ background-color: gray;
+ display: flex;
+ align-items: center;
+ justify-content: space-evenly;
+ gap: 60px;
+ 
+}
+ .c3{
+  width: 400px;
+  height: 200px;
+  background-color: blueviolet;
+  margin-left: 10px;
+  margin-top:  110px;
+
+ }
+ .c4{
+  width: 300px;
+  height: 200px;
+ display: flex;
+ flex-direction:column ;
+ gap: 60px;
+ margin-top: 100px;
+
+}
+ .c4 .s1{
+ width: 200px;
+ height: 200px;
+ background-color:saddlebrown ;
+
+
+}
+ .c4 .s2{
+ width: 200px;
+ height: 200px;
+ background-color:saddlebrown ;
+
+}
+ .s3{
+ width: 100%;
+ height: 100px;
+ background-color: blueviolet;
+ display: flex;
+ gap: 300px;
+}
+ .s4 {
+ width: 300px;
+ height: 40px;
+ background-color: aqua;
+ margin-left: 250px;
+ margin-top: 30px;
+ 
+ 
+ }
+ .s5{
+  width: 300px;
+  height: 40px;
+  background-color: aquamarine;
+  margin-top: 30px;
+   
+  }
